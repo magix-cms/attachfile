@@ -1,4 +1,4 @@
-# Dailymotion
+# Attach File
 Plugin Attach File in product for Magix CMS 3
 
 Ajoute des fichiers aux produits sur votre site.
