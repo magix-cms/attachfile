@@ -11,7 +11,7 @@ Ajoute des fichiers aux produits sur votre site.
  * Il ne reste que la configuration du plugin pour correspondre avec vos données.
  * Copier le contenu du dossier skin/public dans le dossier de votre skin.
 
-## Afficher les vidéos dans le produit
+## Afficher les fichiers dans le produit
 Ajouter la ligne suivante dans le tpl du produit où vous souhaitez afficher les fichiers excel, pdf, word, etc..
 ````smarty
 <div class="attach-file">
